@@ -1,0 +1,545 @@
+{
+  "id": "open-class",
+  "name": "蓝幕分区档案",
+  "description": "蓝色身份横幅，留白式章节分区与独立右侧能力栏。",
+  "series": "Open 系列",
+  "styles": [
+    "简约",
+    "现代"
+  ],
+  "useCases": [
+    "社招"
+  ],
+  "sampleRole": "前端开发工程师",
+  "schema": "https://github.com/ql-link/chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
+  "resume": {
+    "schema_version": "canonical-resume.v1",
+    "document_id": "node_open00000000000000000261",
+    "identity": {
+      "node_id": "node_open00000000000000000262",
+      "name": {
+        "node_id": "node_open00000000000000000263",
+        "value": "张三",
+        "source_refs": []
+      },
+      "headline": {
+        "node_id": "node_open00000000000000000264",
+        "value": "前端开发工程师",
+        "source_refs": []
+      },
+      "contacts": [
+        {
+          "node_id": "node_open00000000000000000265",
+          "value": "13800000000",
+          "source_refs": [],
+          "contact_kind": "phone",
+          "label": null
+        },
+        {
+          "node_id": "node_open00000000000000000266",
+          "value": "zhangsan@example.com",
+          "source_refs": [],
+          "contact_kind": "email",
+          "label": null
+        },
+        {
+          "node_id": "node_open00000000000000000267",
+          "value": "上海",
+          "source_refs": [],
+          "contact_kind": "location",
+          "label": null
+        }
+      ],
+      "avatar": null
+    },
+    "sections": [
+      {
+        "node_id": "node_open00000000000000000268",
+        "source_refs": [],
+        "semantic_kind": "profile",
+        "title": {
+          "node_id": "node_open00000000000000000269",
+          "value": "个人简介",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_open00000000000000000270",
+            "source_refs": [],
+            "block_type": "paragraph",
+            "runs": [
+              {
+                "inline_type": "text",
+                "text": "三年 React 与 TypeScript 开发经验，负责业务工作台与组件维护。关注状态建模、可访问性和性能观测，能推进需求澄清、实现、测试与上线验证。",
+                "marks": [],
+                "href": null,
+                "style": {
+                  "color": null,
+                  "font_size_pt": null,
+                  "highlight_color": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "node_open00000000000000000271",
+        "source_refs": [],
+        "semantic_kind": "work",
+        "title": {
+          "node_id": "node_open00000000000000000272",
+          "value": "工作经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_open00000000000000000273",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000274",
+                "value": "青舟软件有限公司",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000275",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "前端开发工程师 · 2023.07—至今",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_open00000000000000000276",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_open00000000000000000277",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "负责订单与客户工作台，抽离筛选、分页和表单逻辑，沉淀 12 个可复用业务组件。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000278",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "通过路由分包、图片延迟加载和接口并行优化首屏，在同一环境将 LCP 从 3.2 秒降至 2.1 秒。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000279",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "为关键表单补充组件测试与异常状态，完成键盘操作和焦点恢复修复，减少重复回归问题。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_open00000000000000000280",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000281",
+                "value": "远岑技术工作室",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000282",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "前端开发助理 · 2022.07—2023.06",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_open00000000000000000283",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_open00000000000000000284",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "参与预约系统的页面开发，与后端确认接口边界，补充加载、空状态及失败重试交互。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000285",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "维护组件使用示例和样式规范，协助排查浏览器兼容问题，记录复现步骤及修复方案。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_open00000000000000000286",
+        "source_refs": [],
+        "semantic_kind": "project",
+        "title": {
+          "node_id": "node_open00000000000000000287",
+          "value": "项目经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_open00000000000000000288",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000289",
+                "value": "可配置数据工作台",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000290",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "核心开发 · 2024.08—2025.01",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_open00000000000000000291",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_open00000000000000000292",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "实现筛选条件与 URL 状态同步，支持通过链接还原查询条件和页面位置。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000293",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "设计权限感知操作、请求取消与批量反馈，补充筛选重置和重复提交的边界测试。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000294",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "整理使用文档与性能观测项，协助三个业务小组迁移到统一组件，减少重复维护。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_open00000000000000000295",
+        "source_refs": [],
+        "semantic_kind": "education",
+        "title": {
+          "node_id": "node_open00000000000000000296",
+          "value": "教育经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_open00000000000000000297",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000298",
+                "value": "示例大学",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000299",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "本科 · 软件工程（2018.09—2022.06）",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_open00000000000000000300",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_open00000000000000000301",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "主修数据结构、计算机网络和数据库；毕业设计为任务协作系统。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_open00000000000000000302",
+        "source_refs": [],
+        "semantic_kind": "skills",
+        "title": {
+          "node_id": "node_open00000000000000000303",
+          "value": "专业技能",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_open00000000000000000304",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000305",
+                "value": "界面开发",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000306",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "React、TypeScript、复杂表单与状态建模，重视组件职责边界。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_open00000000000000000307",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000308",
+                "value": "工程质量",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000309",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "Vitest、Testing Library、Git 与持续集成，能够维护交互回归。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_open00000000000000000310",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000311",
+                "value": "性能诊断",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000312",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "Vite 分包、浏览器网络分析与渲染排查，能依据指标定位问题。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      }
+    ],
+    "source_dispositions": []
+  }
+}

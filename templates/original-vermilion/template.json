@@ -1,0 +1,617 @@
+{
+  "id": "original-vermilion",
+  "name": "朱砂编辑笺",
+  "description": "红色章节编号、衬线姓名与横向身份区的编辑式单栏。",
+  "series": "Original 系列",
+  "styles": [
+    "经典",
+    "创意"
+  ],
+  "useCases": [
+    "社招"
+  ],
+  "sampleRole": "产品设计师",
+  "schema": "https://github.com/ql-link/chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
+  "resume": {
+    "schema_version": "canonical-resume.v1",
+    "document_id": "node_original00000000000000000001",
+    "identity": {
+      "node_id": "node_original00000000000000000002",
+      "name": {
+        "node_id": "node_original00000000000000000003",
+        "value": "张三",
+        "source_refs": []
+      },
+      "headline": {
+        "node_id": "node_original00000000000000000004",
+        "value": "产品设计师",
+        "source_refs": []
+      },
+      "contacts": [
+        {
+          "node_id": "node_original00000000000000000005",
+          "value": "13800000000",
+          "source_refs": [],
+          "contact_kind": "phone",
+          "label": null
+        },
+        {
+          "node_id": "node_original00000000000000000006",
+          "value": "zhangsan@example.com",
+          "source_refs": [],
+          "contact_kind": "email",
+          "label": null
+        },
+        {
+          "node_id": "node_original00000000000000000007",
+          "value": "上海",
+          "source_refs": [],
+          "contact_kind": "location",
+          "label": null
+        }
+      ],
+      "avatar": null
+    },
+    "sections": [
+      {
+        "node_id": "node_original00000000000000000008",
+        "source_refs": [],
+        "semantic_kind": "profile",
+        "title": {
+          "node_id": "node_original00000000000000000009",
+          "value": "个人简介",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_original00000000000000000061",
+            "source_refs": [],
+            "block_type": "paragraph",
+            "runs": [
+              {
+                "inline_type": "text",
+                "text": "五年产品设计经验，关注用户需求与业务目标的平衡。负责从需求访谈、流程梳理到交互原型与设计验收的完整工作，能够通过访谈记录和使用数据识别问题，并与研发团队协同完成落地。",
+                "marks": [],
+                "href": null,
+                "style": {
+                  "color": null,
+                  "font_size_pt": null,
+                  "highlight_color": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "node_original00000000000000000011",
+        "source_refs": [],
+        "semantic_kind": "work",
+        "title": {
+          "node_id": "node_original00000000000000000012",
+          "value": "工作经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_original00000000000000000013",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000014",
+                "value": "澄川设计",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000053",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "2023.07—至今",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000062",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "产品设计师",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000016",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_original00000000000000000017",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "负责品牌活动与产品推广视觉，梳理受众和传播重点，提供版式、配色与字体的成套方案。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_original00000000000000000018",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "建立常用页面、海报和社交媒体组件，整理尺寸与导出规范，使协作方能够复用已确认的设计。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_original00000000000000000019",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "跟进网页和线下物料落地，核对字号、对比度与裁切安全区，记录并修复交付中的偏差。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_original00000000000000000020",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000021",
+                "value": "青禾工作室",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000063",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "2021.07—2023.06",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000064",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "交互设计师",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000023",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_original00000000000000000024",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "参与社区活动的视觉支持，根据主视觉延展报名页、导视和现场物料，保持跨媒介信息一致。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_original00000000000000000025",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "维护素材目录与版本记录，协助完成印刷打样、图像检查及供应商交接。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_original00000000000000000026",
+        "source_refs": [],
+        "semantic_kind": "project",
+        "title": {
+          "node_id": "node_original00000000000000000027",
+          "value": "项目经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_original00000000000000000028",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000029",
+                "value": "青禾记 · 社区产品体验重构",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000057",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "2024.06—2024.10",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000058",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "主设计",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000031",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_original00000000000000000032",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "以阅读路线为线索设计视觉语言，完成主海报、活动手册及移动端报名页面。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_original00000000000000000033",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "将 12 类物料整理为组件和模板，明确文案长度、图片比例与替换规则。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_original00000000000000000034",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "现场回收指引反馈后调整地图与入口标识，形成下一季可直接复用的交付包。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_original00000000000000000035",
+        "source_refs": [],
+        "semantic_kind": "education",
+        "title": {
+          "node_id": "node_original00000000000000000036",
+          "value": "教育经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_original00000000000000000037",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000038",
+                "value": "示例大学",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000065",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "2017.09—2021.06",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000066",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "工业设计 · 本科",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000040",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_original00000000000000000041",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "毕业项目为社区活动导视；获校级优秀毕业设计。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_original00000000000000000042",
+        "source_refs": [],
+        "semantic_kind": "skills",
+        "title": {
+          "node_id": "node_original00000000000000000043",
+          "value": "专业技能",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_original00000000000000000044",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000045",
+                "value": "视觉设计",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000046",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "版式、字体与色彩系统，能够解释设计选择并形成规范。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_original00000000000000000047",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000048",
+                "value": "数字工具",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000049",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "Figma、Illustrator、Photoshop，熟悉组件与导出流程。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_original00000000000000000050",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000051",
+                "value": "落地协作",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000052",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "网页标注、印刷打样与版本管理，关注实际阅读和使用场景。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      }
+    ],
+    "source_dispositions": []
+  }
+}

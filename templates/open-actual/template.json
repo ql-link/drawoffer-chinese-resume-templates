@@ -1,0 +1,545 @@
+{
+  "id": "open-actual",
+  "name": "编辑部双栏",
+  "description": "超大左对齐姓名，右侧资料栏，经历要点双列编排。",
+  "series": "Open 系列",
+  "styles": [
+    "现代",
+    "创意"
+  ],
+  "useCases": [
+    "社招"
+  ],
+  "sampleRole": "新媒体运营",
+  "schema": "https://github.com/ql-link/chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
+  "resume": {
+    "schema_version": "canonical-resume.v1",
+    "document_id": "node_open00000000000000000209",
+    "identity": {
+      "node_id": "node_open00000000000000000210",
+      "name": {
+        "node_id": "node_open00000000000000000211",
+        "value": "张三",
+        "source_refs": []
+      },
+      "headline": {
+        "node_id": "node_open00000000000000000212",
+        "value": "新媒体运营",
+        "source_refs": []
+      },
+      "contacts": [
+        {
+          "node_id": "node_open00000000000000000213",
+          "value": "13800000000",
+          "source_refs": [],
+          "contact_kind": "phone",
+          "label": null
+        },
+        {
+          "node_id": "node_open00000000000000000214",
+          "value": "zhangsan@example.com",
+          "source_refs": [],
+          "contact_kind": "email",
+          "label": null
+        },
+        {
+          "node_id": "node_open00000000000000000215",
+          "value": "上海",
+          "source_refs": [],
+          "contact_kind": "location",
+          "label": null
+        }
+      ],
+      "avatar": null
+    },
+    "sections": [
+      {
+        "node_id": "node_open00000000000000000216",
+        "source_refs": [],
+        "semantic_kind": "profile",
+        "title": {
+          "node_id": "node_open00000000000000000217",
+          "value": "个人简介",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_open00000000000000000218",
+            "source_refs": [],
+            "block_type": "paragraph",
+            "runs": [
+              {
+                "inline_type": "text",
+                "text": "具备内容策划、活动执行与数据复盘经验，负责从选题、制作到发布的协作流程。重视受众需求与内容质量，用可追踪的数据检验运营改进。",
+                "marks": [],
+                "href": null,
+                "style": {
+                  "color": null,
+                  "font_size_pt": null,
+                  "highlight_color": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "node_open00000000000000000219",
+        "source_refs": [],
+        "semantic_kind": "work",
+        "title": {
+          "node_id": "node_open00000000000000000220",
+          "value": "工作经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_open00000000000000000221",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000222",
+                "value": "青禾内容工作室",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000223",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "内容运营 · 2023.07—至今",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_open00000000000000000224",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_open00000000000000000225",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "负责知识类账号选题与发布排期，结合评论、搜索词和访谈建立选题库，每周协调完成 3 篇内容。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000226",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "维护标题、封面和正文检查清单，核对引用、错字与链接，减少发布后返工并统一表达风格。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000227",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "分析阅读完成率和收藏数据，比较同类选题表现，调整内容结构后试点栏目收藏率由 4% 提升至 6%。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_open00000000000000000228",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000229",
+                "value": "星河校园服务中心",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000230",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "运营助理 · 2022.07—2023.06",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_open00000000000000000231",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_open00000000000000000232",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "参与线上活动执行，负责报名页文案、提醒信息和参与者答疑，整理常见问题及活动流程。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000233",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "汇总报名与到场数据，记录渠道来源和流失环节，为后续活动调整通知时间与触达方式。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_open00000000000000000234",
+        "source_refs": [],
+        "semantic_kind": "project",
+        "title": {
+          "node_id": "node_open00000000000000000235",
+          "value": "项目经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_open00000000000000000236",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000237",
+                "value": "城市生活指南栏目",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000238",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "栏目负责人 · 2024.05—2024.09",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_open00000000000000000239",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_open00000000000000000240",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "访谈 15 名目标读者，归纳出通勤、公共服务和周末活动三个主题，形成首期内容计划。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000241",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "统一信息核验标准与编辑模板，组织摄影、撰稿和校对协作，累计发布 12 期指南。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000242",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "复盘读者收藏与反馈，增加地图入口和更新时间标记，提高信息的可用性与维护效率。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_open00000000000000000243",
+        "source_refs": [],
+        "semantic_kind": "education",
+        "title": {
+          "node_id": "node_open00000000000000000244",
+          "value": "教育经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_open00000000000000000245",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000246",
+                "value": "示例大学",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000247",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "本科 · 新闻传播学（2018.09—2022.06）",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_open00000000000000000248",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_open00000000000000000249",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "主修新闻采写、传播学和市场调研；参与校刊编辑与专题策划。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_open00000000000000000250",
+        "source_refs": [],
+        "semantic_kind": "skills",
+        "title": {
+          "node_id": "node_open00000000000000000251",
+          "value": "专业技能",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_open00000000000000000252",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000253",
+                "value": "内容策划",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000254",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "用户访谈、选题整理与结构化写作，能够完成从资料核验到发布复盘。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_open00000000000000000255",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000256",
+                "value": "数据工具",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000257",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "Excel 透视表、基础渠道分析与图表表达，能够解释指标变化及限制。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_open00000000000000000258",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000259",
+                "value": "团队协作",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000260",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "活动排期、素材交接与检查清单，熟悉跨角色内容制作流程。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      }
+    ],
+    "source_dispositions": []
+  }
+}

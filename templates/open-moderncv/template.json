@@ -1,0 +1,528 @@
+{
+  "id": "open-moderncv",
+  "name": "学术短线履历",
+  "description": "左端粗短线定位章节，正文统一缩进，蓝灰学术排版。",
+  "series": "Open 系列",
+  "styles": [
+    "简约",
+    "经典"
+  ],
+  "useCases": [
+    "社招"
+  ],
+  "sampleRole": "软件测试工程师",
+  "schema": "https://github.com/ql-link/chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
+  "resume": {
+    "schema_version": "canonical-resume.v1",
+    "document_id": "node_open00000000000000000053",
+    "identity": {
+      "node_id": "node_open00000000000000000054",
+      "name": {
+        "node_id": "node_open00000000000000000055",
+        "value": "张三",
+        "source_refs": []
+      },
+      "headline": {
+        "node_id": "node_open00000000000000000056",
+        "value": "软件测试工程师",
+        "source_refs": []
+      },
+      "contacts": [
+        {
+          "node_id": "node_open00000000000000000057",
+          "value": "13800000000",
+          "source_refs": [],
+          "contact_kind": "phone",
+          "label": null
+        },
+        {
+          "node_id": "node_open00000000000000000058",
+          "value": "zhangsan@example.com",
+          "source_refs": [],
+          "contact_kind": "email",
+          "label": null
+        },
+        {
+          "node_id": "node_open00000000000000000059",
+          "value": "上海",
+          "source_refs": [],
+          "contact_kind": "location",
+          "label": null
+        }
+      ],
+      "avatar": null
+    },
+    "sections": [
+      {
+        "node_id": "node_open00000000000000000060",
+        "source_refs": [],
+        "semantic_kind": "profile",
+        "title": {
+          "node_id": "node_open00000000000000000061",
+          "value": "个人简介",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_open00000000000000000062",
+            "source_refs": [],
+            "block_type": "paragraph",
+            "runs": [
+              {
+                "inline_type": "text",
+                "text": "三年 Web 产品测试经验，关注接口边界、数据一致性与交互回归。能够结合业务风险安排测试优先级，维护稳定、可解释的自动化用例。",
+                "marks": [],
+                "href": null,
+                "style": {
+                  "color": null,
+                  "font_size_pt": null,
+                  "highlight_color": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "node_open00000000000000000063",
+        "source_refs": [],
+        "semantic_kind": "work",
+        "title": {
+          "node_id": "node_open00000000000000000064",
+          "value": "工作经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_open00000000000000000065",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000066",
+                "value": "青舟软件有限公司",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000067",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "测试工程师 · 2023.07—至今",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_open00000000000000000068",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_open00000000000000000069",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "负责订单与结算模块测试，将取消、退款、重复提交等风险整理为场景矩阵，覆盖主要状态转换。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000070",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "使用 Python 编写接口回归，维护测试数据与环境清理步骤，使关键链路可在每次发布前重复验证。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_open00000000000000000072",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000073",
+                "value": "远岑技术工作室",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000074",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "测试助理 · 2022.07—2023.06",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_open00000000000000000075",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_open00000000000000000076",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "完成客户管理系统的功能与兼容性测试，记录复现步骤、请求参数和影响范围，提升问题定位效率。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000077",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "梳理每周回归清单并维护测试账号，协助团队将发布前检查从个人经验转为共享流程。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_open00000000000000000078",
+        "source_refs": [],
+        "semantic_kind": "project",
+        "title": {
+          "node_id": "node_open00000000000000000079",
+          "value": "项目经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_open00000000000000000080",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000081",
+                "value": "接口回归与质量看板",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000082",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "核心参与者 · 2024.04—2024.09",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_open00000000000000000083",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_open00000000000000000084",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "为登录、下单、退款等 18 条关键链路建立自动化回归，区分产品缺陷与环境失败。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000085",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "将失败请求、截图与版本信息汇总到报告，支持按模块查看失败原因及历史趋势。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_open00000000000000000086",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "在固定环境验证回归结果，发布前人工检查时间由约 3 小时缩短至 1 小时。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_open00000000000000000087",
+        "source_refs": [],
+        "semantic_kind": "education",
+        "title": {
+          "node_id": "node_open00000000000000000088",
+          "value": "教育经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_open00000000000000000089",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000090",
+                "value": "示例大学",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000091",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "本科 · 软件工程（2018.09—2022.06）",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_open00000000000000000092",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_open00000000000000000093",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "主修软件测试、数据库和计算机网络；参与课程项目的测试与发布。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_open00000000000000000094",
+        "source_refs": [],
+        "semantic_kind": "skills",
+        "title": {
+          "node_id": "node_open00000000000000000095",
+          "value": "专业技能",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_open00000000000000000096",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000097",
+                "value": "接口测试",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000098",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "Python、pytest、Postman；测试数据构造、断言设计与失败定位。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_open00000000000000000099",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000100",
+                "value": "质量分析",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000101",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "边界值、状态转换与风险分层，能够给出缺陷优先级及验证依据。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_open00000000000000000102",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_open00000000000000000103",
+                "value": "工程工具",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_open00000000000000000104",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "SQL 数据核对、Git 分支协作与持续集成，熟悉日志和浏览器网络面板。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      }
+    ],
+    "source_dispositions": []
+  }
+}

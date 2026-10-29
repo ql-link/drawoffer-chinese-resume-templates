@@ -1,0 +1,497 @@
+{
+  "id": "career-classic",
+  "name": "蓝线传播履历",
+  "description": "RenderCV Classic 短线标题；市场实习示例，突出课程项目、校园活动与到岗安排。",
+  "series": "Career 系列",
+  "styles": [
+    "简约",
+    "经典"
+  ],
+  "useCases": [
+    "实习"
+  ],
+  "sampleRole": "品牌市场实习生",
+  "schema": "https://github.com/ql-link/chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
+  "resume": {
+    "schema_version": "canonical-resume.v1",
+    "document_id": "node_career00000000000000000205",
+    "identity": {
+      "node_id": "node_career00000000000000000206",
+      "name": {
+        "node_id": "node_career00000000000000000207",
+        "source_refs": [],
+        "value": "张三"
+      },
+      "headline": {
+        "node_id": "node_career00000000000000000208",
+        "source_refs": [],
+        "value": "品牌市场实习生 · 2028 届在校生"
+      },
+      "contacts": [
+        {
+          "node_id": "node_career00000000000000000209",
+          "source_refs": [],
+          "value": "13800000000",
+          "contact_kind": "phone",
+          "label": null
+        },
+        {
+          "node_id": "node_career00000000000000000210",
+          "source_refs": [],
+          "value": "zhangsan@example.com",
+          "contact_kind": "email",
+          "label": null
+        },
+        {
+          "node_id": "node_career00000000000000000211",
+          "source_refs": [],
+          "value": "上海",
+          "contact_kind": "location",
+          "label": null
+        }
+      ],
+      "avatar": null
+    },
+    "sections": [
+      {
+        "node_id": "node_career00000000000000000212",
+        "source_refs": [],
+        "semantic_kind": "profile",
+        "title": {
+          "node_id": "node_career00000000000000000213",
+          "source_refs": [],
+          "value": "求职意向"
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_career00000000000000000214",
+            "source_refs": [],
+            "block_type": "paragraph",
+            "runs": [
+              {
+                "inline_type": "text",
+                "text": "广告学本科在读，希望申请品牌市场或内容策划实习。2026 年 10 月起每周可到岗 4 天，连续实习 4 个月；能够完成基础调研、活动执行与素材整理。",
+                "marks": [],
+                "href": null,
+                "style": {
+                  "color": null,
+                  "font_size_pt": null,
+                  "highlight_color": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "node_career00000000000000000215",
+        "source_refs": [],
+        "semantic_kind": "education",
+        "title": {
+          "node_id": "node_career00000000000000000216",
+          "source_refs": [],
+          "value": "教育背景"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000217",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000218",
+                "source_refs": [],
+                "value": "示例传媒大学"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000219",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "广告学 · 本科 · 2024.09—2028.06（预计）",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000220",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000221",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "主修市场营销、消费者行为、品牌传播与广告文案；GPA 3.55/4.0。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000222",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "完成定量问卷、访谈提纲与传播方案课程训练，能解释样本及结论的适用范围。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000223",
+        "source_refs": [],
+        "semantic_kind": "project",
+        "title": {
+          "node_id": "node_career00000000000000000224",
+          "source_refs": [],
+          "value": "课程项目"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000225",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000226",
+                "source_refs": [],
+                "value": "校园二手书市传播方案"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000227",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "课程小组策划 · 2026.03—2026.06",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000228",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000229",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "整理 86 份课堂调研问卷，结合 8 次访谈归纳学生对选书效率、价格与取书时间的顾虑。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000230",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "设计海报、社群预告和现场导览三类素材，明确各渠道的内容重点与发布时间。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000231",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "通过小范围同学评阅修改主视觉与标题；最终形成包含调研结论、三类素材和执行排期的课程报告。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000232",
+        "source_refs": [],
+        "semantic_kind": "activity",
+        "title": {
+          "node_id": "node_career00000000000000000233",
+          "source_refs": [],
+          "value": "校园经历"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000234",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000235",
+                "source_refs": [],
+                "value": "校园文化节工作组"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000236",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "宣传组成员 · 2025.09—2025.11",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000237",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000238",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "协助完成 5 篇活动预告及回顾，核对时间地点和报名信息，按审核意见修改后发布。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000239",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "维护物料清单和摄影需求，活动结束后归档 120 张授权照片与采访记录。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_career00000000000000000240",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000241",
+                "source_refs": [],
+                "value": "院学生会外联部"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000242",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "干事 · 2024.10—2025.06",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000243",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000244",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "整理合作沟通记录与需求表，协助筹备迎新活动，及时同步物料交付与现场问题。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000245",
+        "source_refs": [],
+        "semantic_kind": "skills",
+        "title": {
+          "node_id": "node_career00000000000000000246",
+          "source_refs": [],
+          "value": "工具与能力"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000247",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000248",
+                "source_refs": [],
+                "value": "内容制作"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000249",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "Canva、PowerPoint、剪映基础；能完成海报排版、脚本分镜和短视频粗剪。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_career00000000000000000250",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000251",
+                "source_refs": [],
+                "value": "调研与语言"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000252",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "Excel 问卷整理与基础图表；CET-6 · 2025，能阅读英文品牌案例。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      }
+    ],
+    "source_dispositions": []
+  }
+}

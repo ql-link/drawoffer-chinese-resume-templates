@@ -1,0 +1,504 @@
+{
+  "id": "atlas-offset-masthead",
+  "name": "错位刊头",
+  "description": "左侧色条姓名与右侧圆头像、非对称双栏分区。",
+  "series": "Atlas 系列",
+  "styles": [
+    "现代",
+    "创意"
+  ],
+  "useCases": [
+    "社招"
+  ],
+  "sampleRole": "产品经理",
+  "schema": "https://github.com/ql-link/chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
+  "resume": {
+    "schema_version": "canonical-resume.v1",
+    "document_id": "node_atlasdocument000000000032",
+    "identity": {
+      "node_id": "node_pilotidentity00000004",
+      "name": {
+        "node_id": "node_pilotname00000004",
+        "value": "张三",
+        "source_refs": []
+      },
+      "headline": {
+        "node_id": "node_pilotheadline00000004",
+        "value": "产品经理",
+        "source_refs": []
+      },
+      "contacts": [
+        {
+          "node_id": "node_pilotphone00000004",
+          "value": "13800000000",
+          "source_refs": [],
+          "contact_kind": "phone",
+          "label": null
+        },
+        {
+          "node_id": "node_pilotemail00000004",
+          "value": "zhangsan@example.com",
+          "source_refs": [],
+          "contact_kind": "email",
+          "label": null
+        },
+        {
+          "node_id": "node_pilotlocation00000004",
+          "value": "北京",
+          "source_refs": [],
+          "contact_kind": "location",
+          "label": null
+        }
+      ],
+      "avatar": null
+    },
+    "sections": [
+      {
+        "node_id": "node_pilotprofilesection00000004",
+        "source_refs": [],
+        "semantic_kind": "profile",
+        "title": {
+          "node_id": "node_pilotprofiletitle00000004",
+          "value": "个人简介",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_pilotprofiletext00000004",
+            "source_refs": [],
+            "block_type": "paragraph",
+            "runs": [
+              {
+                "inline_type": "text",
+                "text": "具备 B 端产品规划与迭代经验，擅长通过访谈、行为数据和业务约束识别真实问题，并推动设计、研发和运营形成闭环。",
+                "marks": [],
+                "href": null,
+                "style": {
+                  "color": null,
+                  "font_size_pt": null,
+                  "highlight_color": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "node_pilotworksection00000004",
+        "source_refs": [],
+        "semantic_kind": "work",
+        "title": {
+          "node_id": "node_pilotworktitle00000004",
+          "value": "工作经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_pilotworkentry00000004",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_pilotorganization00000004",
+                "value": "云杉协作科技有限公司",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_visualsample0000000001",
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "产品经理  ·  2022.08  ·  至今",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ],
+                "source_refs": []
+              },
+              {
+                "node_id": "node_samplecontentrefresh00000001",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_samplecontentrefresh00000002",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "负责企业协作产品的需求池与季度规划，通过 12 次客户访谈梳理审批、通知和权限场景，明确版本优先级。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_samplecontentrefresh00000003",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "联合设计与研发完成新手引导改版，按周观察激活漏斗；试点团队的首次任务完成率由 62% 提升至 78%。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_samplecontentrefresh00000004",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "建立上线验收清单和反馈分级机制，组织双周复盘，将高频问题平均处理周期从 5 天缩短至 3 天。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_pilotprojectsection00000004",
+        "source_refs": [],
+        "semantic_kind": "project",
+        "title": {
+          "node_id": "node_pilotprojecttitle00000004",
+          "value": "项目经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_pilotprojectentry00000004",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_pilotprojectname00000004",
+                "value": "企业审批流程改版",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_visualsample0000000002",
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "产品负责人",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ],
+                "source_refs": []
+              },
+              {
+                "node_id": "node_samplecontentrefresh00000005",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_samplecontentrefresh00000006",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "梳理五类角色的审批路径，将重复表单合并为可配置流程，覆盖请假、采购与费用报销三类场景。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_samplecontentrefresh00000007",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "设计异常退回、代理审批及操作记录，组织两轮灰度验证，试点流程平均流转时间减少约 25%。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_samplecontentrefresh00000008",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_samplecontentrefresh00000009",
+                "value": "客户反馈分析看板",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_samplecontentrefresh00000010",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "产品负责人 · 2024.09–2024.12",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_samplecontentrefresh00000011",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_samplecontentrefresh00000012",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "统一客服工单与访谈标签，建立问题频次、影响范围和解决进度看板，支持季度需求评审。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_samplecontentrefresh00000013",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "与数据同学核对统计口径，每周回看高频问题及版本效果，形成从反馈到迭代的追踪记录。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_piloteducationsection00000004",
+        "source_refs": [],
+        "semantic_kind": "education",
+        "title": {
+          "node_id": "node_piloteducationtitle00000004",
+          "value": "教育经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_piloteducationentry00000004",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_pilotschool00000004",
+                "value": "示例大学",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_visualsample0000000003",
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "本科 · 信息管理（2016.09–2020.06）",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ],
+                "source_refs": []
+              },
+              {
+                "node_id": "node_samplecontentrefresh00000014",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "相关课程：管理信息系统、数据库原理、统计学；毕业项目完成校园服务流程调研与原型验证。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_pilotskillssection00000004",
+        "source_refs": [],
+        "semantic_kind": "skills",
+        "title": {
+          "node_id": "node_pilotskillstitle00000004",
+          "value": "专业技能",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_samplecontentrefresh00000015",
+            "block_type": "bullet_list",
+            "start": null,
+            "items": [
+              {
+                "node_id": "node_samplecontentrefresh00000016",
+                "source_refs": [],
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "需求分析：访谈提纲、场景拆解、优先级评估与验收标准。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_samplecontentrefresh00000017",
+                "source_refs": [],
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "数据分析：SQL 查询、Excel 透视表，搭建漏斗与留存指标。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_samplecontentrefresh00000018",
+                "source_refs": [],
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "产品设计：Figma 原型、流程图、交互说明及异常状态设计。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_samplecontentrefresh00000019",
+                "source_refs": [],
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "项目协作：组织需求评审、灰度验证和版本复盘，跟进跨团队依赖。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "source_dispositions": []
+  }
+}

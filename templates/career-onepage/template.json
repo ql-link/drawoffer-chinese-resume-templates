@@ -1,0 +1,511 @@
+{
+  "id": "career-onepage",
+  "name": "细线护理履历",
+  "description": "Onepage 紧凑索引；护理校招示例，清楚区分轮转实习、校园训练与资格状态。",
+  "series": "Career 系列",
+  "styles": [
+    "简约",
+    "现代"
+  ],
+  "useCases": [
+    "校招"
+  ],
+  "sampleRole": "护理岗位",
+  "schema": "https://github.com/ql-link/chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
+  "resume": {
+    "schema_version": "canonical-resume.v1",
+    "document_id": "node_career00000000000000000155",
+    "identity": {
+      "node_id": "node_career00000000000000000156",
+      "name": {
+        "node_id": "node_career00000000000000000157",
+        "source_refs": [],
+        "value": "张三"
+      },
+      "headline": {
+        "node_id": "node_career00000000000000000158",
+        "source_refs": [],
+        "value": "护理岗位 · 2027 届校招"
+      },
+      "contacts": [
+        {
+          "node_id": "node_career00000000000000000159",
+          "source_refs": [],
+          "value": "13800000000",
+          "contact_kind": "phone",
+          "label": null
+        },
+        {
+          "node_id": "node_career00000000000000000160",
+          "source_refs": [],
+          "value": "zhangsan@example.com",
+          "contact_kind": "email",
+          "label": null
+        },
+        {
+          "node_id": "node_career00000000000000000161",
+          "source_refs": [],
+          "value": "上海",
+          "contact_kind": "location",
+          "label": null
+        }
+      ],
+      "avatar": null
+    },
+    "sections": [
+      {
+        "node_id": "node_career00000000000000000162",
+        "source_refs": [],
+        "semantic_kind": "profile",
+        "title": {
+          "node_id": "node_career00000000000000000163",
+          "source_refs": [],
+          "value": "求职概述"
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_career00000000000000000164",
+            "source_refs": [],
+            "block_type": "paragraph",
+            "runs": [
+              {
+                "inline_type": "text",
+                "text": "护理学本科在读，预计 2027 年 6 月毕业，正在完成临床轮转实习。重视查对、交接与患者沟通，所有临床实践均在带教老师指导下开展。",
+                "marks": [],
+                "href": null,
+                "style": {
+                  "color": null,
+                  "font_size_pt": null,
+                  "highlight_color": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "node_career00000000000000000165",
+        "source_refs": [],
+        "semantic_kind": "education",
+        "title": {
+          "node_id": "node_career00000000000000000166",
+          "source_refs": [],
+          "value": "教育背景"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000167",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000168",
+                "source_refs": [],
+                "value": "示例医学院"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000169",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "护理学 · 本科 · 2023.09—2027.06（预计）",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000170",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000171",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "主修基础护理学、内外科护理学、健康评估与护理伦理；综合成绩位于专业前 25%。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000172",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "参加校内情景模拟训练，重点练习信息核对、交接表达与异常情况上报。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000173",
+        "source_refs": [],
+        "semantic_kind": "work",
+        "title": {
+          "node_id": "node_career00000000000000000174",
+          "source_refs": [],
+          "value": "轮转实习"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000175",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000176",
+                "source_refs": [],
+                "value": "示例教学医院"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000177",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "实习护生 · 2026.07—2027.03（计划）",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000178",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000179",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "已完成内科见习阶段，在带教指导下参与资料整理、基础观察与交接记录，严格遵守隐私要求。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000180",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "协助核对健康宣教材料，用通俗表述复述注意事项，并将患者提出的问题反馈给带教老师。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000181",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "按周记录学习目标与反馈，区分已观摩、已练习及待掌握项目，不独立承担超出实习权限的工作。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000182",
+        "source_refs": [],
+        "semantic_kind": "project",
+        "title": {
+          "node_id": "node_career00000000000000000183",
+          "source_refs": [],
+          "value": "课程实践"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000184",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000185",
+                "source_refs": [],
+                "value": "出院宣教材料可读性改进"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000186",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "课程项目 · 2026.03—2026.05",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000187",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000188",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "选取学校提供的模拟材料，归纳术语密集、字体偏小与操作步骤分散等问题。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000189",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "与同学制作图文清单，经教师审阅后完成课堂演示；该成果仅为教学练习，未用于临床。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000190",
+        "source_refs": [],
+        "semantic_kind": "activity",
+        "title": {
+          "node_id": "node_career00000000000000000191",
+          "source_refs": [],
+          "value": "志愿服务"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000192",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000193",
+                "source_refs": [],
+                "value": "校园健康主题活动"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000194",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "志愿者 · 2024.10—2026.05",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000195",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000196",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "协助 4 场健康主题活动的签到、秩序维护和资料发放，做好活动后反馈整理。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000197",
+        "source_refs": [],
+        "semantic_kind": "skills",
+        "title": {
+          "node_id": "node_career00000000000000000198",
+          "source_refs": [],
+          "value": "能力与资格"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000199",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000200",
+                "source_refs": [],
+                "value": "基础能力"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000201",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "基础护理理论、沟通记录与团队协作；熟悉 Word、Excel 和文献检索。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_career00000000000000000202",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000203",
+                "source_refs": [],
+                "value": "资格状态"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000204",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "CET-4 · 2024；护士执业资格考试尚未参加，取得资格前不独立执业。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      }
+    ],
+    "source_dispositions": []
+  }
+}

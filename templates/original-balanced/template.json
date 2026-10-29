@@ -1,0 +1,670 @@
+{
+  "id": "original-balanced",
+  "name": "横向分庭",
+  "description": "通栏职业概览，下方工作与项目能力均衡分栏。",
+  "series": "Original 系列",
+  "styles": [
+    "简约",
+    "现代"
+  ],
+  "useCases": [
+    "社招"
+  ],
+  "sampleRole": "数据产品经理",
+  "schema": "https://github.com/ql-link/chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
+  "resume": {
+    "schema_version": "canonical-resume.v1",
+    "document_id": "node_original00000000000000000067",
+    "identity": {
+      "node_id": "node_original00000000000000000068",
+      "name": {
+        "node_id": "node_original00000000000000000069",
+        "value": "张三",
+        "source_refs": []
+      },
+      "headline": {
+        "node_id": "node_original00000000000000000070",
+        "value": "数据产品经理",
+        "source_refs": []
+      },
+      "contacts": [
+        {
+          "node_id": "node_original00000000000000000071",
+          "value": "13800000000",
+          "source_refs": [],
+          "contact_kind": "phone",
+          "label": null
+        },
+        {
+          "node_id": "node_original00000000000000000072",
+          "value": "zhangsan@example.com",
+          "source_refs": [],
+          "contact_kind": "email",
+          "label": null
+        },
+        {
+          "node_id": "node_original00000000000000000073",
+          "value": "上海",
+          "source_refs": [],
+          "contact_kind": "location",
+          "label": null
+        }
+      ],
+      "avatar": null
+    },
+    "sections": [
+      {
+        "node_id": "node_original00000000000000000074",
+        "source_refs": [],
+        "semantic_kind": "profile",
+        "title": {
+          "node_id": "node_original00000000000000000075",
+          "value": "个人简介",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_original00000000000000000127",
+            "source_refs": [],
+            "block_type": "paragraph",
+            "runs": [
+              {
+                "inline_type": "text",
+                "text": "具备从业务理解到产品落地的完整经验，关注数据驱动的业务增长与组织协同。擅长用户访谈、指标口径设计与分析看板规划，能够把模糊需求整理为清晰的验收标准，并通过试点与复盘持续改进。",
+                "marks": [],
+                "href": null,
+                "style": {
+                  "color": null,
+                  "font_size_pt": null,
+                  "highlight_color": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "node_original00000000000000000077",
+        "source_refs": [],
+        "semantic_kind": "work",
+        "title": {
+          "node_id": "node_original00000000000000000078",
+          "value": "工作经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_original00000000000000000079",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000080",
+                "value": "澄川数字科技有限公司",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000119",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "2023.07—至今",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000120",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "数据产品经理",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000128",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "面向企业内部经营管理，负责经营看板与数据服务的需求规划，连接销售、运营和数据研发团队。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000082",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_original00000000000000000083",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "负责经营看板规划，访谈销售与运营共 16 人，梳理订单、回款和续费指标，明确计算口径及责任人。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_original00000000000000000084",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "将临时取数需求整理为可配置筛选与订阅功能，试点团队每周报表整理时间由 4 小时降至 1.5 小时。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_original00000000000000000085",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "组织数据验收和使用培训，维护指标变更记录与异常反馈清单，推动两轮上线后的问题修复。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_original00000000000000000086",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000087",
+                "value": "青禾信息服务有限公司",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000130",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "2021.07—2023.06",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000122",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "产品助理",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000129",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "参与客户管理与报表产品建设，负责调研资料整理、原型说明及测试验收，在迭代中积累跨团队交付经验。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000089",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_original00000000000000000090",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "参与客户管理系统迭代，整理工单与访谈记录，完成需求优先级排序和原型说明。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_original00000000000000000091",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "跟踪开发、测试与业务验收节点，建立需求追溯表，使历史决策与交付范围可查询。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_original00000000000000000131",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "汇总上线后的问题与使用反馈，区分缺陷、培训问题和新增需求，形成下一轮迭代的依据。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_original00000000000000000092",
+        "source_refs": [],
+        "semantic_kind": "project",
+        "title": {
+          "node_id": "node_original00000000000000000093",
+          "value": "项目经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_original00000000000000000094",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000095",
+                "value": "经营指标统一项目",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000123",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "2024.08—2024.12",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000124",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "产品负责人",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000097",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_original00000000000000000098",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "盘点三个业务系统的 28 项高频指标，确认去重、时间窗口与退款处理规则，形成指标字典。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_original00000000000000000099",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "设计异常提示与责任人订阅，联合分析师核对样本数据，减少跨部门对同一指标的重复解释。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_original00000000000000000100",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "以两个团队开展试点，收集使用记录与反馈，补充新手指引后推广至全部经营小组。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_original00000000000000000101",
+        "source_refs": [],
+        "semantic_kind": "education",
+        "title": {
+          "node_id": "node_original00000000000000000102",
+          "value": "教育经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_original00000000000000000103",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000104",
+                "value": "示例大学",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000132",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "2017.09—2021.06",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000126",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "本科  信息管理与信息系统",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_original00000000000000000106",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_original00000000000000000107",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "主修数据库、统计学与管理信息系统；毕业设计为校园资源预约平台。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_original00000000000000000108",
+        "source_refs": [],
+        "semantic_kind": "skills",
+        "title": {
+          "node_id": "node_original00000000000000000109",
+          "value": "专业技能",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_original00000000000000000110",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000111",
+                "value": "产品设计",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000112",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "需求访谈、流程梳理、原型与验收用例，能独立完成从问题定义到上线复盘。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_original00000000000000000113",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000114",
+                "value": "数据分析",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000115",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "SQL 查询、Excel 透视表与漏斗分析，重视口径、样本范围和结论边界。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_original00000000000000000116",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_original00000000000000000117",
+                "value": "交付协作",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_original00000000000000000118",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "跨部门排期、风险记录与版本沟通，使用清单持续跟踪验收和后续反馈。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      }
+    ],
+    "source_dispositions": []
+  }
+}

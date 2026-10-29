@@ -1,0 +1,414 @@
+{
+  "id": "atlas-twin-cards",
+  "name": "双栏卡片",
+  "description": "居中肖像与两个浅底内容面板，章节使用短横线。",
+  "series": "Atlas 系列",
+  "styles": [
+    "现代"
+  ],
+  "useCases": [
+    "社招"
+  ],
+  "sampleRole": "产品运营应届生",
+  "schema": "https://github.com/ql-link/chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
+  "resume": {
+    "schema_version": "canonical-resume.v1",
+    "document_id": "node_atlasdocument000000000028",
+    "identity": {
+      "node_id": "node_pilotidentity00000001",
+      "name": {
+        "node_id": "node_pilotname00000001",
+        "value": "张三",
+        "source_refs": []
+      },
+      "headline": {
+        "node_id": "node_pilotheadline00000001",
+        "value": "产品运营应届生",
+        "source_refs": []
+      },
+      "contacts": [
+        {
+          "node_id": "node_pilotphone00000001",
+          "value": "13800000000",
+          "source_refs": [],
+          "contact_kind": "phone",
+          "label": null
+        },
+        {
+          "node_id": "node_pilotemail00000001",
+          "value": "zhangsan@example.com",
+          "source_refs": [],
+          "contact_kind": "email",
+          "label": null
+        },
+        {
+          "node_id": "node_pilotlocation00000001",
+          "value": "上海",
+          "source_refs": [],
+          "contact_kind": "location",
+          "label": null
+        }
+      ],
+      "avatar": null
+    },
+    "sections": [
+      {
+        "node_id": "node_pilotprofilesection00000001",
+        "source_refs": [],
+        "semantic_kind": "profile",
+        "title": {
+          "node_id": "node_pilotprofiletitle00000001",
+          "value": "个人简介",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_pilotprofiletext00000001",
+            "source_refs": [],
+            "block_type": "paragraph",
+            "runs": [
+              {
+                "inline_type": "text",
+                "text": "应届毕业生，具备用户调研、数据分析与活动执行经验，能够把校园项目中的问题拆解为可验证的行动方案。",
+                "marks": [],
+                "href": null,
+                "style": {
+                  "color": null,
+                  "font_size_pt": null,
+                  "highlight_color": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "node_pilotworksection00000001",
+        "source_refs": [],
+        "semantic_kind": "work",
+        "title": {
+          "node_id": "node_pilotworktitle00000001",
+          "value": "工作经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_pilotworkentry00000001",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_pilotorganization00000001",
+                "value": "星河校园服务中心",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_visualsample0000000004",
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "产品运营实习生  ·  2025.03  ·  2025.08",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ],
+                "source_refs": []
+              },
+              {
+                "node_id": "node_samplecontentrefresh00000075",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_samplecontentrefresh00000076",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "整理 120 条新用户反馈，按注册、报名与签到场景分类，协助优化新手引导和常见问题说明。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_samplecontentrefresh00000077",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "跟踪 6 场校园活动的报名与到场数据，用 Excel 建立周报，定位提醒遗漏并调整通知节奏。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_samplecontentrefresh00000078",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "参与页面文案与埋点验收，维护问题清单；将活动物料、分工和复盘整理为可复用执行模板。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_pilotprojectsection00000001",
+        "source_refs": [],
+        "semantic_kind": "project",
+        "title": {
+          "node_id": "node_pilotprojecttitle00000001",
+          "value": "项目经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_pilotprojectentry00000001",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_pilotprojectname00000001",
+                "value": "校园二手循环平台",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_visualsample0000000005",
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "产品负责人",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ],
+                "source_refs": []
+              },
+              {
+                "node_id": "node_samplecontentrefresh00000079",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_samplecontentrefresh00000080",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "访谈 20 名学生，梳理闲置物品发布、筛选与联系卖家的关键路径，完成需求清单和交互原型。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_samplecontentrefresh00000081",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "组织两轮可用性测试，精简发布表单并补充交易提醒，8 名测试者中 7 名能独立完成发布任务。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_piloteducationsection00000001",
+        "source_refs": [],
+        "semantic_kind": "education",
+        "title": {
+          "node_id": "node_piloteducationtitle00000001",
+          "value": "教育经历",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_piloteducationentry00000001",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_pilotschool00000001",
+                "value": "示例大学",
+                "source_refs": []
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_visualsample0000000006",
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "本科 · 信息管理与信息系统（2022.09–2026.06）",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ],
+                "source_refs": []
+              },
+              {
+                "node_id": "node_samplecontentrefresh00000082",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "主修课程：统计学、数据库原理、市场调研；校级奖学金一次，参与学院志愿服务项目。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_pilotskillssection00000001",
+        "source_refs": [],
+        "semantic_kind": "skills",
+        "title": {
+          "node_id": "node_pilotskillstitle00000001",
+          "value": "专业技能",
+          "source_refs": []
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_samplecontentrefresh00000083",
+            "block_type": "bullet_list",
+            "start": null,
+            "items": [
+              {
+                "node_id": "node_samplecontentrefresh00000084",
+                "source_refs": [],
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "调研：访谈记录、问卷整理和需求分类，能输出清晰的问题清单。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_samplecontentrefresh00000085",
+                "source_refs": [],
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "分析：Excel 透视表与常用函数、SQL 基础查询和图表表达。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_samplecontentrefresh00000086",
+                "source_refs": [],
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "协作：Figma 基础原型、活动排期、会议纪要与进度跟踪。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "source_dispositions": []
+  }
+}

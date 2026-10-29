@@ -1,0 +1,513 @@
+{
+  "id": "career-stack",
+  "name": "橙标精益履历",
+  "description": "Stack Overflow 时间线适配；制造业社招示例，强调工艺改善与现场协作。",
+  "series": "Career 系列",
+  "styles": [
+    "现代"
+  ],
+  "useCases": [
+    "社招"
+  ],
+  "sampleRole": "生产工艺工程师",
+  "schema": "https://github.com/ql-link/chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
+  "resume": {
+    "schema_version": "canonical-resume.v1",
+    "document_id": "node_career00000000000000000055",
+    "identity": {
+      "node_id": "node_career00000000000000000056",
+      "name": {
+        "node_id": "node_career00000000000000000057",
+        "source_refs": [],
+        "value": "张三"
+      },
+      "headline": {
+        "node_id": "node_career00000000000000000058",
+        "source_refs": [],
+        "value": "生产工艺工程师 · 社招"
+      },
+      "contacts": [
+        {
+          "node_id": "node_career00000000000000000059",
+          "source_refs": [],
+          "value": "13800000000",
+          "contact_kind": "phone",
+          "label": null
+        },
+        {
+          "node_id": "node_career00000000000000000060",
+          "source_refs": [],
+          "value": "zhangsan@example.com",
+          "contact_kind": "email",
+          "label": null
+        },
+        {
+          "node_id": "node_career00000000000000000061",
+          "source_refs": [],
+          "value": "上海",
+          "contact_kind": "location",
+          "label": null
+        }
+      ],
+      "avatar": null
+    },
+    "sections": [
+      {
+        "node_id": "node_career00000000000000000062",
+        "source_refs": [],
+        "semantic_kind": "profile",
+        "title": {
+          "node_id": "node_career00000000000000000063",
+          "source_refs": [],
+          "value": "职业概述"
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_career00000000000000000064",
+            "source_refs": [],
+            "block_type": "paragraph",
+            "runs": [
+              {
+                "inline_type": "text",
+                "text": "四年装配制造现场经验，关注工序节拍、异常分析与作业标准。能在质量和安全边界内推进小范围试点，依据现场数据评价改善效果。",
+                "marks": [],
+                "href": null,
+                "style": {
+                  "color": null,
+                  "font_size_pt": null,
+                  "highlight_color": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "node_career00000000000000000065",
+        "source_refs": [],
+        "semantic_kind": "work",
+        "title": {
+          "node_id": "node_career00000000000000000066",
+          "source_refs": [],
+          "value": "工作经历"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000067",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000068",
+                "source_refs": [],
+                "value": "砺行精密制造有限公司"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000069",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "工艺工程师 · 2023.04—至今",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000070",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000071",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "负责两条装配线的工艺文件与变更跟踪，联合班组长梳理关键工序，更新作业指导书。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000072",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "采集换型步骤及等待时间，将准备动作前置；试点线平均换型时间由 46 分钟降至 35 分钟。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000073",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "对返工问题按工位、批次分类，协同质量团队完成原因验证、措施跟踪和效果复核。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_career00000000000000000074",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000075",
+                "source_refs": [],
+                "value": "青原机电有限公司"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000076",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "助理工艺工程师 · 2022.07—2023.03",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000077",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000078",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "参与工装验收、首件确认与现场问题记录，在工程师指导下维护工艺参数台账。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000079",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "整理班组交接反馈和设备异常记录，将反复出现的问题纳入周度改善清单。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000080",
+        "source_refs": [],
+        "semantic_kind": "project",
+        "title": {
+          "node_id": "node_career00000000000000000081",
+          "source_refs": [],
+          "value": "改善项目"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000082",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000083",
+                "source_refs": [],
+                "value": "装配工位动作优化"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000084",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "项目执行 · 2025.04—2025.08",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000085",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000086",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "对三类产品各观察 20 个完整作业周期，区分取料、装配、检验与等待，形成基线记录。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000087",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "与班组试排物料位置和工具定置，保留检验与安全步骤；用同一采样口径比较前后节拍。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000088",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "试点单件平均节拍缩短 8%，经质量复核后更新指导书，并安排两轮班组培训。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000089",
+        "source_refs": [],
+        "semantic_kind": "education",
+        "title": {
+          "node_id": "node_career00000000000000000090",
+          "source_refs": [],
+          "value": "教育背景"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000091",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000092",
+                "source_refs": [],
+                "value": "示例工业大学"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000093",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "机械设计制造及其自动化 · 本科 · 2018.09—2022.06",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000094",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000095",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "毕业设计为小型装配夹具；完成工程制图、制造工艺与质量管理课程。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000096",
+        "source_refs": [],
+        "semantic_kind": "skills",
+        "title": {
+          "node_id": "node_career00000000000000000097",
+          "source_refs": [],
+          "value": "现场能力"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000098",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000099",
+                "source_refs": [],
+                "value": "工艺与改善"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000100",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "工序分析、标准作业、基础量具使用、5 Why 与改善效果复核。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_career00000000000000000101",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000102",
+                "source_refs": [],
+                "value": "工具与协作"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000103",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "AutoCAD、SolidWorks、Excel；能组织班组访谈并记录工程变更。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      }
+    ],
+    "source_dispositions": []
+  }
+}

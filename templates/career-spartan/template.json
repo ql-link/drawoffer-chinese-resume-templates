@@ -1,0 +1,527 @@
+{
+  "id": "career-spartan",
+  "name": "留白师范履历",
+  "description": "Spartan 留白分区；师范校招示例，以教育、教学实习与校园实践为主。",
+  "series": "Career 系列",
+  "styles": [
+    "简约"
+  ],
+  "useCases": [
+    "校招"
+  ],
+  "sampleRole": "小学语文教师",
+  "schema": "https://github.com/ql-link/chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
+  "resume": {
+    "schema_version": "canonical-resume.v1",
+    "document_id": "node_career00000000000000000104",
+    "identity": {
+      "node_id": "node_career00000000000000000105",
+      "name": {
+        "node_id": "node_career00000000000000000106",
+        "source_refs": [],
+        "value": "张三"
+      },
+      "headline": {
+        "node_id": "node_career00000000000000000107",
+        "source_refs": [],
+        "value": "小学语文教师 · 2027 届校招"
+      },
+      "contacts": [
+        {
+          "node_id": "node_career00000000000000000108",
+          "source_refs": [],
+          "value": "13800000000",
+          "contact_kind": "phone",
+          "label": null
+        },
+        {
+          "node_id": "node_career00000000000000000109",
+          "source_refs": [],
+          "value": "zhangsan@example.com",
+          "contact_kind": "email",
+          "label": null
+        },
+        {
+          "node_id": "node_career00000000000000000110",
+          "source_refs": [],
+          "value": "上海",
+          "contact_kind": "location",
+          "label": null
+        }
+      ],
+      "avatar": null
+    },
+    "sections": [
+      {
+        "node_id": "node_career00000000000000000111",
+        "source_refs": [],
+        "semantic_kind": "profile",
+        "title": {
+          "node_id": "node_career00000000000000000112",
+          "source_refs": [],
+          "value": "求职概述"
+        },
+        "title_icon": null,
+        "entries": [],
+        "blocks": [
+          {
+            "node_id": "node_career00000000000000000113",
+            "source_refs": [],
+            "block_type": "paragraph",
+            "runs": [
+              {
+                "inline_type": "text",
+                "text": "汉语言文学师范专业应届生，预计 2027 年 6 月毕业。已有小学教学见习与课程设计实践，重视学情观察、课堂反馈及与指导教师的沟通。",
+                "marks": [],
+                "href": null,
+                "style": {
+                  "color": null,
+                  "font_size_pt": null,
+                  "highlight_color": null
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "node_id": "node_career00000000000000000114",
+        "source_refs": [],
+        "semantic_kind": "education",
+        "title": {
+          "node_id": "node_career00000000000000000115",
+          "source_refs": [],
+          "value": "教育背景"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000116",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000117",
+                "source_refs": [],
+                "value": "示例师范大学"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000118",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "汉语言文学（师范）· 本科 · 2023.09—2027.06（预计）",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000119",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000120",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "GPA 3.62/4.0；主修现代汉语、儿童文学、课程与教学论、教育心理学。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000121",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "完成微格教学与说课训练，能依据学习目标设计提问、练习和课堂评价。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000122",
+        "source_refs": [],
+        "semantic_kind": "work",
+        "title": {
+          "node_id": "node_career00000000000000000123",
+          "source_refs": [],
+          "value": "教学实习"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000124",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000125",
+                "source_refs": [],
+                "value": "示例实验小学"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000126",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "语文见习教师 · 2026.03—2026.06",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000127",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000128",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "在指导教师带领下观察 24 节课堂，按提问方式、参与度和练习反馈整理听课记录。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000129",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "协助批改四年级语文练习，按字词、阅读理解与表达分类问题，供指导教师调整复习重点。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000130",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "试讲两次阅读课，依据教师反馈缩短讲授时间，增加学生复述与同伴讨论环节。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000131",
+        "source_refs": [],
+        "semantic_kind": "project",
+        "title": {
+          "node_id": "node_career00000000000000000132",
+          "source_refs": [],
+          "value": "课程设计"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000133",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000134",
+                "source_refs": [],
+                "value": "校园植物观察写作单元"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000135",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "课程小组负责人 · 2025.10—2025.12",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000136",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000137",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "将观察记录、词语积累与习作修改安排为三课时，明确每节课的学习任务及评价要点。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000138",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "组织 5 人小组完成教案与学习单，用同伴模拟课堂检查任务时长，修改两轮材料。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000139",
+        "source_refs": [],
+        "semantic_kind": "activity",
+        "title": {
+          "node_id": "node_career00000000000000000140",
+          "source_refs": [],
+          "value": "校园实践"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000141",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000142",
+                "source_refs": [],
+                "value": "校读书协会"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000143",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "活动组织者 · 2024.09—2026.06",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              },
+              {
+                "node_id": "node_career00000000000000000144",
+                "block_type": "bullet_list",
+                "start": null,
+                "items": [
+                  {
+                    "node_id": "node_career00000000000000000145",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "策划 6 场共读活动，负责书目讨论、流程安排与主持，整理参与者反馈供下一期调整。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "node_id": "node_career00000000000000000146",
+                    "source_refs": [],
+                    "runs": [
+                      {
+                        "inline_type": "text",
+                        "text": "参与社区阅读志愿活动，协助儿童选书与故事复述，依据儿童反馈调整活动节奏，并整理活动记录。",
+                        "marks": [],
+                        "href": null,
+                        "style": {
+                          "color": null,
+                          "font_size_pt": null,
+                          "highlight_color": null
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      },
+      {
+        "node_id": "node_career00000000000000000147",
+        "source_refs": [],
+        "semantic_kind": "skills",
+        "title": {
+          "node_id": "node_career00000000000000000148",
+          "source_refs": [],
+          "value": "技能与资格"
+        },
+        "title_icon": null,
+        "entries": [
+          {
+            "node_id": "node_career00000000000000000149",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000150",
+                "source_refs": [],
+                "value": "教学基础"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000151",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "普通话二级甲等 · 2025；CET-4 · 2024；熟悉课件制作与板书设计。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "node_id": "node_career00000000000000000152",
+            "source_refs": [],
+            "fields": {
+              "name": {
+                "node_id": "node_career00000000000000000153",
+                "source_refs": [],
+                "value": "资格计划"
+              }
+            },
+            "blocks": [
+              {
+                "node_id": "node_career00000000000000000154",
+                "source_refs": [],
+                "block_type": "paragraph",
+                "runs": [
+                  {
+                    "inline_type": "text",
+                    "text": "教师资格认定尚未完成；正在整理教育实习材料，计划毕业后按要求办理。",
+                    "marks": [],
+                    "href": null,
+                    "style": {
+                      "color": null,
+                      "font_size_pt": null,
+                      "highlight_color": null
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "blocks": []
+      }
+    ],
+    "source_dispositions": []
+  }
+}
