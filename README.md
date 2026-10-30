@@ -119,7 +119,7 @@
 
 - [drawoffer-prompts](https://github.com/ql-link/drawoffer-prompts)：简历诊断、JD 匹配、STAR 改写等提示词，复制到任意 AI 助手即用。
 - [drawoffer-skills](https://github.com/ql-link/drawoffer-skills)：同一套方法的 Claude Code Agent Skills。
-- [drawoffer-mcp](https://github.com/ql-link/drawoffer-mcp)：让 AI 工具直接读取你在 DrawOffer 里的简历和岗位（即将上线）。
+- [drawoffer-mcp](https://github.com/ql-link/drawoffer-mcp)：让 AI 工具直接读取你在 DrawOffer 里的简历和岗位。
 
 ## 许可证
 
