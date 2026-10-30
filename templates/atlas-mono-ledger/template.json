@@ -11,7 +11,7 @@
     "社招"
   ],
   "sampleRole": "前端开发工程师",
-  "schema": "https://github.com/ql-link/chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
+  "schema": "https://github.com/ql-link/drawoffer-chinese-resume-templates/blob/main/schema/canonical-resume.schema.json",
   "resume": {
     "schema_version": "canonical-resume.v1",
     "document_id": "node_atlasdocument000000000001",
